@@ -1,4 +1,4 @@
-### Olá! Eu sou o Pedro 👋
+### Olá! Eu sou o Pedro 
 
 🎓 Estudante de **Ciência da Computação** da Universidade Federal de Campina Grande - UFCG.  
 Explorando tecnologias e construindo projetos práticos para aprender na prática.
