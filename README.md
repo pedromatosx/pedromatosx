@@ -1,16 +1,15 @@
 ### Olá! Eu sou o Pedro 👋
 
-🎓 Estudante de **Ciência da Computação** da Universidade Federal de Campina Grande - UFCG.  
+Estudante de **Ciência da Computação** da Universidade Federal de Campina Grande - UFCG.  
 Explorando tecnologias e construindo projetos práticos para aprender na prática.
 
 ---
 
-### 📌 O que estou fazendo por aqui
+### O que estou fazendo por aqui
 
-- 📚 Focado nas disciplinas e nos fundamentos da graduação em Ciência da Computação.
-- 🛠️ Projeto recente: **IncorePDF** — um utilitário para manipulação e conversão de arquivos PDF, explorando integração entre interface e rotinas locais de processamento.
-
-### 🧰 Tecnologias com as quais tenho tido contato
+- Focado nas disciplinas e nos fundamentos da graduação em Ciência da Computação.
+- 
+### Tecnologias com as quais tenho tido contato
 
 > *Tecnologias que estou explorando e aplicando em projetos e nos estudos:*
 
